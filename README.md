@@ -1,2 +1,4 @@
 # KNN-from-scratch
-Implementing KNN from scratch in Python
+Implementing K-Nearest Neighbors from scratch in Python
+
+This is just for practice.
