@@ -1,7 +1,7 @@
 # KNN-from-scratch
 Implementing K-Nearest Neighbors from scratch in Python
 
-This is just for practice.
+This is just for practice. Aim of the project is to build a production grade implementation of KNN classifier.
 
 **knn.py** contains the code for KNN classifier. **test rig.py** file contains a test case to run the KNN classifier code on MNIST Digits and MNIST Fashion datasets.
 The classifier is functional and is in ready to use state. 3 functions, namely predict_sample, predict and evaluate have been implemented into the classifier.
